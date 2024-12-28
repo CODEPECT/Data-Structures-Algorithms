@@ -1,6 +1,10 @@
-# Data Structures and Algorithms 📚
+# Data Structures and Algorithms <img src="https://github.com/user-attachments/assets/ec474719-d02a-4bbf-8762-49f548cb825b" height="100px"/>
 
 Welcome to the Data Structures and Algorithms repository! This repository is dedicated to providing a comprehensive understanding of various data structures and algorithms, essential for coding interviews and competitive programming.
+
+<img src="https://github.com/user-attachments/assets/4653959c-77ec-405c-86d5-e3426aa2e0d2" height="100px" />  <img src="https://github.com/user-attachments/assets/6c5f41a9-57c8-4e39-880a-2bb1149a8e49" height="130px"/> <br/>
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
